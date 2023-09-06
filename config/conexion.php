@@ -23,7 +23,7 @@
 
         public static function ruta(){
             //Local
-			return "http://localhost:90/PERSONAL_HelpDesk/";
+			return "http://localhost:3306/PERSONAL_HelpDesk/";
             //Produccion
             //return "http://helpdesk.anderson-bastidas.com/";
 		}
